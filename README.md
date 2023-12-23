@@ -19,7 +19,7 @@ https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
 
 
 ### 部署
-fastAPI
+fastAPI, 使用Depends注解来实现全局变量的锁定。
 
 
 
